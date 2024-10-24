@@ -1,7 +1,7 @@
 # Railway-Reservation-System
 
 ### NAME:VARNIKA.P
-### REG:212223240170
+### REG NO:212223240170
 
 
 # USECASE DIAGRAM:
